@@ -2,3 +2,8 @@ Radar Navigation integration
 First, I need to understand principles of radar communication integration. (Transmit the position of the radar transmitting station to the user)
 Second, TDOA/FDOA estimation and spatial spectrum estimation(MUSIC and ESPRIT).(ALL is based on array signal processing).
 Third, resolve position coordinates by geometric relations.
+
+High frequency ground wave radar sea state inversion
+FMCW
+Simulation （Vital）
+Basics of Sea State Inversion（Current、Wave Height、Wind）
